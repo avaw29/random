@@ -13,7 +13,7 @@ import operator
 ## Our provided code will call the functions with a few different inputs, check the results, and print 'OK' when each function's output is correct.
 
 ## The starter code for each function includes a placeholder for your code. You need to fill in code for the function that returns the correct result as specified.
-
+print ("Ava")
 
 ## Task 0. Background Information
 ## This function should print your name and your expected score.
